@@ -18,7 +18,7 @@
 		63E28B321B9A337600FBF6E0 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E28B2D1B9A337600FBF6E0 /* RegisterViewController.swift */; };
 		63E28B331B9A337600FBF6E0 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E28B2E1B9A337600FBF6E0 /* WelcomeViewController.swift */; };
 		63EBB3031D97FEBD004175E5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 63EBB3021D97FEBD004175E5 /* GoogleService-Info.plist */; };
-		9790777F062601BADDD0A14A /* Pods_Flash_Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C59FA75CBB3BA14659F7FAAF /* Pods_Flash_Chat.framework */; };
+		9790777F062601BADDD0A14A /* Pods_Quick_Chat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C59FA75CBB3BA14659F7FAAF /* Pods_Quick_Chat.framework */; };
 		AD6D013320EA8BD500B1782A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6D013020EA8BD500B1782A /* LaunchScreen.storyboard */; };
 		AD6D013420EA8BD500B1782A /* AppBreweryLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AD6D013120EA8BD500B1782A /* AppBreweryLogo.png */; };
 		AD6D013520EA8BD500B1782A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = AD6D013220EA8BD500B1782A /* background.png */; };
@@ -58,7 +58,7 @@
 		AD6D013120EA8BD500B1782A /* AppBreweryLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppBreweryLogo.png; sourceTree = "<group>"; };
 		AD6D013220EA8BD500B1782A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 		ADA4AFB61FAB759100E0738B /* ChameleonFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = ChameleonFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C59FA75CBB3BA14659F7FAAF /* Pods_Flash_Chat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flash_Chat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C59FA75CBB3BA14659F7FAAF /* Pods_Quick_Chat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Quick_Chat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9790777F062601BADDD0A14A /* Pods_Flash_Chat.framework in Frameworks */,
+				9790777F062601BADDD0A14A /* Pods_Quick_Chat.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,7 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				ADA4AFB61FAB759100E0738B /* ChameleonFramework.framework */,
-				C59FA75CBB3BA14659F7FAAF /* Pods_Flash_Chat.framework */,
+				C59FA75CBB3BA14659F7FAAF /* Pods_Quick_Chat.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
